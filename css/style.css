@@ -1,0 +1,33 @@
+.img{
+  width: 95%;
+  margin:0 auto 0 auto;
+  border-radius: 15px;
+}
+body{
+  text-align: center;
+  background-color:hsl(212, 45%, 89%);
+}
+.top{
+  background-color: white;
+  width: 200px;
+  margin:200px auto 200px;
+  height: 350px;
+  padding: 30px;
+  border-radius: 15px;
+}
+p{
+  font-weight: 400;
+}
+.para{
+font-size: 13px;
+font-weight:700;
+font-family: 'Outfit', sans-serif;
+color: hsl(218, 44%, 22%);
+}
+
+.para2{
+  font-size:11px;
+  font-family: 'Outfit', sans-serif;
+  color: hsl(220, 15%, 55%);
+  font-weight: 400;
+}
